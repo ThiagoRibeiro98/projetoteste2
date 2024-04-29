@@ -1,0 +1,14 @@
+C:\Users\thiag\source\repos\estudosdiostudiocode\bin\Debug\net8.0\estudosdiostudiocode.exe
+C:\Users\thiag\source\repos\estudosdiostudiocode\bin\Debug\net8.0\estudosdiostudiocode.deps.json
+C:\Users\thiag\source\repos\estudosdiostudiocode\bin\Debug\net8.0\estudosdiostudiocode.runtimeconfig.json
+C:\Users\thiag\source\repos\estudosdiostudiocode\bin\Debug\net8.0\estudosdiostudiocode.dll
+C:\Users\thiag\source\repos\estudosdiostudiocode\bin\Debug\net8.0\estudosdiostudiocode.pdb
+C:\Users\thiag\source\repos\estudosdiostudiocode\obj\Debug\net8.0\estudosdiostudiocode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\source\repos\estudosdiostudiocode\obj\Debug\net8.0\estudosdiostudiocode.AssemblyInfoInputs.cache
+C:\Users\thiag\source\repos\estudosdiostudiocode\obj\Debug\net8.0\estudosdiostudiocode.AssemblyInfo.cs
+C:\Users\thiag\source\repos\estudosdiostudiocode\obj\Debug\net8.0\estudosdiostudiocode.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\estudosdiostudiocode\obj\Debug\net8.0\estudosdiostudiocode.dll
+C:\Users\thiag\source\repos\estudosdiostudiocode\obj\Debug\net8.0\refint\estudosdiostudiocode.dll
+C:\Users\thiag\source\repos\estudosdiostudiocode\obj\Debug\net8.0\estudosdiostudiocode.pdb
+C:\Users\thiag\source\repos\estudosdiostudiocode\obj\Debug\net8.0\estudosdiostudiocode.genruntimeconfig.cache
+C:\Users\thiag\source\repos\estudosdiostudiocode\obj\Debug\net8.0\ref\estudosdiostudiocode.dll
